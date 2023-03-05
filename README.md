@@ -1,1 +1,3 @@
-# StreetFighterGame
+## StreetFighterGame
+
+Written using Javascript Classes 
