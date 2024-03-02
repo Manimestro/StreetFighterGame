@@ -1,0 +1,80 @@
+@import
+url('https://fonts.cdnfonts.com/css/games');
+.namescore{
+    font-family:monospace
+}                                            
+.backgroundDiv2{
+    background-color: yellow;
+    background-size: cover;
+    height: 100vh;
+}
+.backgroundDiv1{
+    background-image: url("https://i.pinimg.com/originals/fa/6c/77/fa6c771b1b52a2f767359ace05c266ee.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.p1card{
+    background-color: yellow;
+    border-style: solid;
+    border-radius: 1rem;
+    width: 10rem;
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+.p2card{
+    background-color: yellow;
+    border-style: solid;
+    border-radius: 1rem;
+    width: 10rem;
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+.scorecard1{
+    padding: 80px;
+
+}
+.p1score{
+    background-color: goldenrod;
+    border-style: solid;
+    border-radius: 1rem;
+    width: 10rem;
+    text-align: center;
+    margin: 20px;
+    margin-right: 120px;
+
+}
+.p2score{
+    background-color: goldenrod;
+    border-style: solid;
+    border-radius: 1rem;
+    width: 10rem;
+    margin: 20px;
+    margin-left:100px ;
+    text-align: center;
+
+}
+#reset{
+    height: 50px;
+    width: 100px;
+    border: solid;
+    border-radius: 70px;
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.names{
+    font-size: 30px;
+    color:aqua;
+}
+#simulation{
+    height: 50px;
+    width: 100px;
+    border: solid;
+    border-radius: 70px;
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
